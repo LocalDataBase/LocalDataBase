@@ -8,7 +8,7 @@
 
 
 Hi there! 👋
-I'm **not a professional programmer**, but a passionate technical artist with **deep experience in [<ins>**Blender**</ins>](https://www.blender.org/)** — using it since version **2.79**. 
+I'm **not a programmer**, but a passionate technical artist with **deep experience in [<ins>**Blender**</ins>](https://www.blender.org/)** — using it since version **2.79**. 
 Lately, I’ve also been diving into **[<ins>Autodesk Maya</ins>](https://www.autodesk.com/products/maya/overview)**, learning its standards and pipeline practices to **<ins>enhance Blender</ins>** by borrowing industry workflows, hotkeys, UX ideas, and pipeline logic.
 
 I focus on **usability**, building **`Blender add-ons`**, and designing **tools and intuitive UI** that <ins>improve everyday workflow.</ins>
