@@ -24,7 +24,7 @@ All the repositories here are `personal tools` and `experiments`, shared fully a
 * (More in development...)
 
 
-### 🤝 Open to Requests
+### Open to Requests
 If you have ideas to improve Blender or want features in my `addons` — send them in! I’m always looking to **practice Python**. I **gladly accept free requests** to:
 - Improving my existing addons
 - Adding new features 
