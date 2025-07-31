@@ -13,16 +13,22 @@ Lately, I’ve also been diving into **[<ins>Autodesk Maya</ins>](https://www.au
 
 I focus on **usability**, building **`Blender add-ons`**, and designing **tools and intuitive UI** that <ins>improve everyday workflow.</ins>
 
-All the repositories here are `personal tools` and `experiments`, shared fully and freely with open source under Python.
+All the repositories here are `personal tools` and `experiments`. You can download and use this 100% for free.
 
 </div>
 
-## My Addons
+## My Tools
 <img align="center" src="https://images.squarespace-cdn.com/content/v1/5438bd1be4b0446f6692b906/1709623567067-PCCTFY7D01MCLOQWV4YC/cat-computer-1.gif" /></a>
 
+### Blender Addons
 * [<ins>**BTX – Batch Texture Exporter**</ins>](https://github.com/LocalDataBase/BTX)
 * (More in development...)
 
+### Apps
+* [<ins>**Color Composer**</ins>](https://github.com/LocalDataBase/Color-Composer)
+* (More in development...)
+
+---
 
 ### Open to Requests
 If you have ideas to improve Blender or want features in my `addons` — send them in! I’m always looking to **practice Python**. I **gladly accept free requests** to:
