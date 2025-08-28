@@ -28,7 +28,7 @@ I'm **not a programmer**, but a passionate technical artist with **deep experien
 
 ### Blender Add-ons & Tools
 
-[![btx](https://github-readme-stats.vercel.app/api/pin?username=LocalDataBase\&repo=BTX\&theme=apprentice)](https://github.com/walidbosso/SpringBoot-Angular-TrainingCenter-Management)
+[![btx](https://github-readme-stats.vercel.app/api/pin?username=LocalDataBase\&repo=BTX\&theme=apprentice)](https://github.com/LocalDataBase/BTX)
 
 ---
 
