@@ -8,8 +8,7 @@
 </div>
 
 Hi there! 👋
-I'm **not a programmer**, but a passionate technical artist with **deep experience in [<ins>**Blender**</ins>](https://www.blender.org/)** — using it since version **2.79**. 
-Lately, I’ve also been diving into **[<ins>Autodesk Maya</ins>](https://www.autodesk.com/products/maya/overview)**, learning its standards and pipeline practices to **<ins>enhance Blender</ins>** by borrowing industry workflows, hotkeys, UX ideas, and pipeline logic.
+I'm **not a programmer**, but a passionate technical artist with **deep experience in [<ins>**Blender**</ins>](https://www.blender.org/)** — using it since version **2.79**. I also recently started learning **[<ins>Autodesk Maya.</ins>](https://www.autodesk.com/products/maya/overview)**
 
 * Blender addon development.
 * Designing tools, utilities, scripts for workflows in Blender.
