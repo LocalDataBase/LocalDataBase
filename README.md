@@ -25,9 +25,9 @@ Lately, I’ve also been diving into **[<ins>Autodesk Maya</ins>](https://www.au
 <div align="center">
 <img src="https://images.squarespace-cdn.com/content/v1/5438bd1be4b0446f6692b906/1709623567067-PCCTFY7D01MCLOQWV4YC/cat-computer-1.gif" /></a>
 
-</div>
 
-### Blender addons and tools
+
+### Blender Add-ons & Tools
 
 [![btx](https://github-readme-stats.vercel.app/api/pin?username=LocalDataBase\&repo=BTX\&theme=apprentice)](https://github.com/walidbosso/SpringBoot-Angular-TrainingCenter-Management)
 
@@ -36,4 +36,7 @@ Lately, I’ve also been diving into **[<ins>Autodesk Maya</ins>](https://www.au
 ### Standalone Applications
 
 [![color-composer](https://github-readme-stats.vercel.app/api/pin?username=LocalDataBase\&repo=Color-Composer\&theme=apprentice)](https://github.com/LocalDataBase/Color-Composer)
+
 ### (More in development...)
+
+</div>
